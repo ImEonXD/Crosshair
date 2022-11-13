@@ -2,7 +2,7 @@
 Simple crosshair for any game.  
 
 ## How to use
-1. Download the [latest release](https://github.com/KilLo445/Crosshair/releases/latest) and place it into a folder
+1. Download the [latest release](https://github.com/ImEonXD/Crosshair/releases/latest) and place it into a folder
 2. It creates some files, so its best to put it in it's own folder
 3. Run "Crosshair.exe"
   
